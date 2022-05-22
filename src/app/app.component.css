@@ -1,0 +1,7 @@
+.item {
+  width: 5rem;
+  box-shadow: 0 0 6px gray;
+  padding: 1rem;
+  margin: 1rem;
+  border-radius: 0.5rem;
+}

@@ -1,0 +1,8 @@
+<h2>Users</h2>
+
+<div class="grid">
+  <div *ngFor="let user of users">
+    <p>{{ user.first_name }}</p>
+    <img [src]="user.avatar" alt="" />
+  </div>
+</div>
